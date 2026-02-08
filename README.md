@@ -2,17 +2,20 @@
 
 I am a 2nd-year **B.Tech CSE (AI & Data Science)** student. I am passionate about building automated solutions and analyzing data to solve real-world problems.
 
-- 🔭 I’m currently working on: **Synthetic Data Generation & Python Automation**
-- 🌱 I’m currently learning: **Data Structures (Stacks/Queues) & Advanced SQL**
+- 🔭 I’m currently working on: **Synthetic Data Generation & Python Automation & App development using Flutter and Android Studio.**
+- 🌱 I’m currently learning: **Data Structures (Stacks/Queues) & MongoDB, OOP JAVA**
 - 👯 I’m looking to collaborate on: **Open Source Python projects**
-- ⚡ Fun fact: I love optimizing database queries!
+- ⚡ Fun fact: I love optimizing and mess with database queries!
+- 📫 How to reach me: 📧-osontakke.46@gmail.com
+- 💻 LeetCode: https://leetcode.com/u/OS_is_GHOST
+
 
 ---
 
 ### 🛠 Languages and Tools
 * **Languages:** Python, SQL, C++, Java
-* **Domains:** Data Science, Backend Development, Automation
-* **Tools:** VS Code, Git, MySQL
+* **Domains:** Data Science, Front-end Development, Automation
+* **Tools:** VS Code, Git, MongoDB
 
 ---
 
