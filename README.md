@@ -19,9 +19,6 @@ I am a 2nd-year **B.Tech CSE (AI & Data Science)** student. I am passionate abou
 
 ---
 
-### 📊 GitHub Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataForge06&show_icons=true&theme=radical)
-
 <!--
 **DataForge06/DataForge06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
